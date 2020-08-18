@@ -1,0 +1,203 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+
+
+/* This is css for about us page */
+.body
+{
+    padding:0px;
+    margin: 0px;
+
+}
+
+.demo-main{
+display:flex;
+padding:3px;
+}
+
+.demo-left{
+    height:500px;
+    width:70%;
+    /* border:1px solid black; */
+    margin-right: 10px;
+    font-size: 20px;
+    inline-size: 2px;
+    padding: 3px;
+    color:#2A4893;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.demo-right{
+    /* background-color: lightgrey; */
+    height:200px;
+    width:25%;
+    /* border:1px solid black; */
+    padding-right: 10px;
+    margin-top: 130px;
+    margin-left:80px;
+    border-radius: 10px;
+
+}
+.biw-video {
+   margin-top:5px;
+   position: relative;
+}
+
+.demo-left h3{
+   
+  color:orangered;
+  text-decoration: underline;
+  margin-bottom: 10px;
+
+}
+
+
+/* aboutus page */
+
+.about-left p{
+   
+    color:#2A4893;
+    font-size: 20px;
+    /* line-height: 2px; */
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 5px; 
+}
+
+.about-left h6{
+   
+    color:#2A4893;
+    font-size: 20px;
+    /* line-height: 2px; */
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 20px;
+}
+
+/* css of curriculum */
+.curriculum
+{
+    display: flex;
+    margin-top:5px;
+    
+}
+
+.left-top-curricullum{
+    height: 250px;
+    width: 500px;
+    border:1px solid black;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 10px;
+    line-height: 34px;
+    font-size: 22px;
+    word-spacing: 0px;
+    padding-left: 3px;
+    background-color:azure;
+    color:#2A4893;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.left-top-curricullum h4{
+    text-align: center;
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.left-bottom-curricullum{
+    height: 340px;
+    width: 500px;
+    border:1px solid black;
+    margin-left: 5px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    line-height: 30px;
+    font-size: 22px;
+    word-spacing: 0px;
+    padding-left: 3px;
+    background-color:azure;
+    color:#2A4893;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.left-bottom-curricullum h4{
+    text-align: center;
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+
+
+.middle-top-curriculum{
+    height: 280px;
+    width: 500px;
+    border:1px solid black;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    line-height: 30px;
+    font-size: 22px;
+    word-spacing: 0px;
+    padding-left: 3px;
+    background-color:azure;
+    color:#2A4893;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.middle-top-curriculum h4{
+    text-align: center;
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.middle-bottom-curriculum{
+    height: 250px;
+    width: 500px;
+    border:1px solid black;
+}
+
+.middle-bottom-curriculum{
+    height: 310px;
+    width: 500px;
+    border:1px solid black;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    line-height: 30px;
+    font-size: 22px;
+    word-spacing: 0px;
+    padding-left: 3px;
+    background-color:azure;
+    color:#2A4893;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.middle-bottom-curriculum h4{
+    text-align: center;
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+.right-curriculum{
+    background-color: azure;
+    padding-top: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 40px;
+    height: 200px;
+    width: 200px;
+    margin-top: 180px;
+    border: 1px solid rgb(92, 12, 12);
+}
+
+.right-curriculum h3{
+    text-align: center;
+}
+
+.right-curriculum p{
+    text-align: center;
+    font-size:20px;  
+}
+
+
+
