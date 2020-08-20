@@ -21,3 +21,22 @@ $(document).ready(function(){
         $('.curriculums').load('curriculum.html');
     });
 });
+
+
+
+// This is for certification page
+
+$(document).ready(function(){
+    $('.certification').click(function(){
+        $('.certifications').load('certification.html');
+    });
+});
+
+
+// This is for career page
+
+$(document).ready(function(){
+    $('.careeropportunity').click(function(){
+        $('.careeropportunitys').load('career-opportunities.html');
+    });
+});
