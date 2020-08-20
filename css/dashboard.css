@@ -154,8 +154,8 @@ body {
 }
 .footerclass {
     position: relative;
-    left: 0;
-    /* bottom:0px; */
+    /* left: 0; */
+    bottom:0px; */
     width: 100%;
     color:white;
     text-align: center;
