@@ -5,57 +5,8 @@
 
 
 
-/* This is css for about us page */
-.body
-{
-    padding:0px;
-    margin: 0px;
+/* This is css for demo us page */
 
-}
-
-.demo-main{
-display:flex;
-height: 1000px;
-width: 1200px;
-}
-
-.demo-left{
-    height:500px;
-    width:500px;
-    /* border:1px solid black; */
-    margin-right: 10px;
-    
-    /* padding: 3px; */
-    color:#2A4893;
-    font-family: 'Times New Roman', Times, serif;
-
-}
-.demo-right{
-    /* background-color: lightgrey; */
-    height:200px;
-    width:500px;
-    /* border:1px solid black; */
-    /* padding-right: 10px; */
-    margin-top: 10px;
-    margin-left:100px;
-    /* border-radius: 10px; */
-    /* align-content: left; */
-    font-size: 20px;
-    inline-size: 2px;
-}
-.biw-video {
-   margin-top:5px;
-   position: relative;
-   align-content: left;
-}
-
-.demo-left h3{
-   
-  color:orangered;
-  text-decoration: underline;
-  margin-bottom: 10px;
-
-}
 
 
 /* aboutus page */
