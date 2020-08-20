@@ -15,7 +15,7 @@
 
 .demo-right{
     margin-left:5px;
-    font-size: 17px;
+    font-size: 22px;
     font-family: 'Times New Roman', Times, serif;
     color:#1167b1;
 }
@@ -23,12 +23,13 @@
 
 .demo-right h3
 {
-    margin-left: 440px;
+    margin-left: 470px;
     margin-top:10px;
     margin-bottom: 10px;
     color: orangered;
     text-decoration:underline;
-    font-size:20px;
+    font-size:30px;
+    font-family:'Times New Roman', Times, serif;
 }
 
 /* aboutus page */
