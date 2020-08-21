@@ -219,3 +219,17 @@
 
 
 /* this css for carrier opportunities */
+.carrier-video{
+    height:400px;
+    width: auto;
+    margin-left: 350px;
+    margin-top: 20px;
+}
+
+.carrier-left p{
+margin-top: 20px;    
+margin-left:350px ;
+font-size: 25px;
+color: blue;
+font-family: 'Times New Roman', Times, serif;
+}
