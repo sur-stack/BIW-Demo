@@ -225,15 +225,22 @@ margin-top: 3px;
 
 }
 .biw-intro{
-    padding-left: 20px;
+   margin-left: 20px;
+   position: relative;
 }
 .biw-video1 
-{   
+{  
+position: relative; 
 height: 150px;
 width: 300px;
 /* border-radius: 20px;
 border: 2px solid silver; */
 }
+/* .biw-video02
+{
+
+
+} */
 
 .biw-enroll {
     margin-top:2px;
