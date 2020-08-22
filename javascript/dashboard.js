@@ -48,3 +48,12 @@ $(document).ready(function(){
     });
 });
 
+// This is for course-fee
+
+$(document).ready(function(){
+    $('.course-fee').click(function(){
+        $('.course-fees').load('course-fee.html');
+    });
+});
+
+

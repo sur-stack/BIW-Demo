@@ -230,9 +230,9 @@ margin-top: 3px;
 .biw-video1 
 {   
 height: 150px;
-width: 200pxpx;
-border-radius: 20px;
-border: 2px solid silver;
+width: 300px;
+/* border-radius: 20px;
+border: 2px solid silver; */
 }
 
 .biw-enroll {
@@ -240,6 +240,7 @@ border: 2px solid silver;
     padding-left: 30px;
     padding-bottom: 20px;
     text-decoration: none;
+    margin-left: 20px;
 }
 
 .biw-enroll a{
