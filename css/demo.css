@@ -219,7 +219,7 @@
 
 
 /* this css for carrier opportunities */
-.carrier-video{
+/* .carrier-video{
     height:400px;
     width: auto;
     margin-left: 350px;
@@ -236,4 +236,13 @@ font-family: 'Times New Roman', Times, serif;
 .carrier{
     background-color: #c046fc;
     margin-top: 3px;
+} */
+.under-construction
+{
+    height: 400px;
+    width: 600px;
+    margin-top: 1px;
+    margin-left: 340px;
+
+
 }

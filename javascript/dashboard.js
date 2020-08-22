@@ -40,3 +40,11 @@ $(document).ready(function(){
         $('.careeropportunitys').load('career-opportunities.html');
     });
 });
+
+// This is for facuality page
+$(document).ready(function(){
+    $('.faculty').click(function(){
+        $('.facultys').load('faculty.html');
+    });
+});
+
