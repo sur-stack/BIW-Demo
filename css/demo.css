@@ -255,7 +255,9 @@ font-family: 'Times New Roman', Times, serif;
 }
 
 .course-fee-left{
+    font-size:21px;
     margin-top:5px;
+    color:#2A4893;
     font-family: 'Times New Roman', Times, serif;
 }
 .course-fee-right img{
@@ -263,4 +265,8 @@ font-family: 'Times New Roman', Times, serif;
     margin-top:5px;
     height: 300px;
     width: 300px;
+}
+
+.course-fee-left h3{
+color: blue;
 }
