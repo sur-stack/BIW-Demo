@@ -232,9 +232,10 @@ margin-top: 3px;
 {  
 position: relative; 
 height: 150px;
-width: 300px;
-/* border-radius: 20px;
-border: 2px solid silver; */
+width: 260px;
+border-radius: 20px;
+border: 2px solid silver;
+background-color: silver;
 }
 /* .biw-video02
 {
