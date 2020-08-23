@@ -250,6 +250,7 @@ font-family: 'Times New Roman', Times, serif;
 /* This is for course and fee */
 
 .course-fee{
-    display: flex;
-    padding: 50px;
+    display:flex;
+     padding: 50px;
+     padding-right:50px;
 }
