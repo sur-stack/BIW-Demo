@@ -242,7 +242,14 @@ font-family: 'Times New Roman', Times, serif;
     height: 400px;
     width: 600px;
     margin-top: 1px;
-    margin-left: 340px;
+    margin-left: 350px;
 
 
+}
+
+/* This is for course and fee */
+
+.course-fee{
+    display: flex;
+    padding: 50px;
 }
