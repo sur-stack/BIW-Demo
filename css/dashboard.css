@@ -311,7 +311,9 @@ background-color: silver;
     padding-top: 1px;
     /* border:1px solid black; */
 }
-.menu li a:hover{
+.menu li a:hover,
+.menu li a.active
+{
     text-decoration: none;
     color: orangered;
 }
